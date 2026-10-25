@@ -4,7 +4,7 @@
 
 <h1>Thamindu Hatharasinghe</h1>
 
-<p>Full-Stack Developer · Security Engineer · Founder of <a href="https://www.zynthlab.com">ZynthLab</a></p>
+<p>Full-Stack Developer · Security Engineer</p>
 
 <a href="https://github.com/Thamindu-Dev">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Exploring+Cybersecurity+%26+SecOps;Experimenting+with+Machine+Learning;Founder+of+ZynthLab" alt="Typing SVG" />
@@ -34,7 +34,6 @@
 name: Thamindu Hatharasinghe
 role: Full-Stack Developer | Security Engineer
 location: Sri Lanka 🇱🇰
-org: Founder @ ZynthLab
 current_focus:
   - Scalable web architectures
   - Cybersecurity & SecOps
