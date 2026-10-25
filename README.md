@@ -7,7 +7,7 @@
 <p>Full-Stack Developer · Security Engineer</p>
 
 <a href="https://github.com/Thamindu-Dev">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Exploring+Cybersecurity+%26+SecOps;Experimenting+with+Machine+Learning;Founder+of+ZynthLab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Exploring+Cybersecurity+%26+SecOps;Experimenting+with+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <br/><br/>
